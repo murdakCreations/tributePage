@@ -1,0 +1,23 @@
+.overall {
+    display: flex;
+    overflow: hidden;
+}
+
+.overall img{
+    height: 20em;
+}
+
+.overall .contents {
+    height: 20em;
+    width: 20em;
+    padding: 2em;
+    overflow: hidden;
+}
+
+.contents h1 {
+    font-size: 1.5em;
+}
+
+.contents p {
+    font-size: 0.8em;
+}
